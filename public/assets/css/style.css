@@ -1,15 +1,5 @@
-.label {
-  font-weight: bold;
-}
-
-.create-update-form {
-  padding: 5px;
-  margin: 5px;
-  background: aqua;
-}
-
-.form-group {
-  margin-bottom: 5px;
+h1 {
+  text-shadow: 5px 5px black;
 }
 
 .jumbotron {
@@ -18,8 +8,4 @@
   background-position: center;
   background-size: cover;
   height: 20em;
-}
-
-h1 {
-  text-shadow: 5px 5px black;
 }
