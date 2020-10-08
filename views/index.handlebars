@@ -1,12 +1,18 @@
-<h1>Burgers!</h1>
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-4 text-center text-white font-weight-bold">EAT</h1>
+    <h1 class="display-4 text-center text-white font-weight-bold">DA</h1>
+    <h1 class="display-4 text-center text-white font-weight-bold">BURGER!</h1>
+  </div>
+</div>
 
 <h2>Burgers that are not devoured!</h2>
 
 <ul>
   {{#each burgers}}
-    {{#unless devoured}}
-      {{> burgers/burger-block devoured=true}}
-    {{/unless}}
+  {{#unless devoured}}
+  {{> burgers/burger-block devoured=true}}
+  {{/unless}}
   {{/each}}
 </ul>
 
@@ -14,9 +20,9 @@
 
 <ul>
   {{#each burgers}}
-    {{#if devoured}}
-      {{> burgers/burger-block devoured=false}}
-    {{/if}}
+  {{#if devoured}}
+  {{> burgers/burger-block devoured=false}}
+  {{/if}}
   {{/each}}
 </ul>
 
