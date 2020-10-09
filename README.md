@@ -33,7 +33,7 @@ ADD CONTENT
 
 ## Usage
 
-Edit using VSCode after [installation](#installation). JavaScript, HTML, CSS and package.json files are included.
+Edit using VSCode after [installation](#installation). Config, controllers, db, models, public, and views folders are included along with server file and package.json files. This application is deployed to Heroku, see [links](#Links) section below.
 
 ---
 
