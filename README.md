@@ -14,7 +14,7 @@ ADD CONTENT
 - [Installation](#installation)
 - [Usage](#Usage)
 - [Building the Application](#building-the-application)
-- [Acceptance Criteria](#acceptance-criteria)
+- [Minimum Requirements](#minimum-requirements)
 - [Credits](#credits)
 - [Resources](#resources)
 - [Links](#Links)
@@ -43,9 +43,15 @@ ADD CONTENT
 
 ---
 
-## Acceptance Criteria
+## Minimum Requirements
 
+Application should allow users to create and save new burgers. :heavy_check_mark:
 
+Application should display non-devoured burgers on the left and devoured burgers on the right. :heavy_check_mark:
+
+Application should allow users to devour an existing burger in the left hand non-devoured section. :heavy_check_mark:
+
+When a burger is devoured, it should move from the left to the right side. :heavy_check_mark:
 
 ---
 
