@@ -61,7 +61,10 @@ As always, a huge thanks to our instructional staff for all their hard work!
 
 ## Resources
 
-
+- [w3schools](https://www.w3schools.com)
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [MySQL](https://www.mysql.com/)
 
 ---
 
