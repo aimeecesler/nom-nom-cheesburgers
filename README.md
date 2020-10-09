@@ -2,10 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-ADD CONTENT
+The purpose of this repository is to demonstrate a functioning express application that utilizes a MySql database along with a custom ORM and handlebars.
 
 ![Main]()
-
 
 ---
 
@@ -39,7 +38,7 @@ Edit using VSCode after [installation](#installation). Config, controllers, db, 
 
 ## Building the Application
 
-ADD CONTENT
+When the user visits this application they will be presented with a home screen where they can add different types of burgers that they would like to eat. When burgers are added they will automatically have a set value of "devoured: false" and populate into the left side section of the webpage with a "Devour it!" button next to them. When the user clicks the "Devour it!" button next to a certain burger, that burger's value will then change to "devoured: true" and the burger will then move to the right side section of the webpage. Items in this section will have grayed out formatting and will no longer have a "Devour it!" button next to them.
 
 ---
 
