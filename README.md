@@ -4,7 +4,7 @@
 
 The purpose of this repository is to demonstrate a functioning express application that utilizes a MySql database along with a custom ORM and handlebars.
 
-![Main]()
+![Main](./readme_assets/main.PNG)
 
 ---
 
