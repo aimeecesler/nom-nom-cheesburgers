@@ -70,9 +70,9 @@ As always, a huge thanks to our instructional staff for all their hard work!
 
 ## Links
 
-[Repository Link]()
+[Repository Link](https://github.com/aimeecesler/nom-nom-cheeseburgers)
 
-[Deployed Application]()
+[Deployed Application](https://nom-nom-cheeseburger.herokuapp.com/)
 
 ---
 
